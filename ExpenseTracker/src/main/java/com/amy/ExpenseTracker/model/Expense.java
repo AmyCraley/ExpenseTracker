@@ -1,4 +1,4 @@
-package com.amy.ExpenseTracker;
+package com.amy.ExpenseTracker.model;
 
 public class Expense {
     private int id;
